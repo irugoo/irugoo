@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irugoo
+- 👋 Hi, I’m @irugoo Web Developer 
 - 👀 I’m interested in Software Development and Ethical Hacking 
 - 🌱 I’m currently learning python and ethical hacking in general
 - 💞️ I’m looking to collaborate on Software Development and Hacking Projects 
